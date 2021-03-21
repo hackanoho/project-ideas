@@ -1,0 +1,102 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Auckland,-36.8500,174.7833,New Zealand,NZ,Auckland,admin,1467800,1467800
+Wellington,-41.2889,174.7772,New Zealand,NZ,Wellington,primary,418500,418500
+Christchurch,-43.5309,172.6365,New Zealand,NZ,Canterbury,admin,377200,377200
+Manukau City,-36.9833,174.8833,New Zealand,NZ,Auckland,,375600,375600
+Waitakere,-36.8490,174.5430,New Zealand,NZ,Auckland,,208100,208100
+Northcote,-36.7913,174.7758,New Zealand,NZ,Auckland,,205605,205605
+Hamilton,-37.7833,175.2833,New Zealand,NZ,Waikato,admin,169300,169300
+Tauranga,-37.6858,176.1667,New Zealand,NZ,Bay of Plenty,,135000,135000
+Dunedin,-45.8667,170.5000,New Zealand,NZ,Otago,admin,126255,126255
+Lower Hutt,-41.2167,174.9167,New Zealand,NZ,Wellington,,103400,103400
+Palmerston North,-40.3549,175.6095,New Zealand,NZ,Manawatu-Wanganui,admin,80300,80300
+Napier,-39.4833,176.9167,New Zealand,NZ,Hawke’s Bay,admin,62800,62800
+Porirua,-41.1333,174.8500,New Zealand,NZ,Wellington,,55500,55500
+New Plymouth,-39.0578,174.0742,New Zealand,NZ,Taranaki,,55300,55300
+Rotorua,-38.1378,176.2514,New Zealand,NZ,Bay of Plenty,,54500,54500
+Whangarei,-35.7250,174.3236,New Zealand,NZ,Northland,admin,52600,52600
+Nelson,-41.2931,173.2381,New Zealand,NZ,Nelson,admin,49300,49300
+Invercargill,-46.4290,168.3620,New Zealand,NZ,Southland,admin,48700,48700
+Upper Hutt,-41.1333,175.0500,New Zealand,NZ,Wellington,,41000,41000
+Whanganui,-39.9333,175.0500,New Zealand,NZ,Manawatu-Wanganui,,39400,39400
+Gisborne,-38.6625,178.0178,New Zealand,NZ,Gisborne,admin,35500,35500
+Paraparaumu,-40.9167,175.0167,New Zealand,NZ,Wellington,,28900,28900
+Timaru,-44.4000,171.2500,New Zealand,NZ,Canterbury,,28300,28300
+Blenheim,-41.5167,173.9500,New Zealand,NZ,Marlborough,admin,26400,26400
+Pukekohe East,-37.1950,174.9481,New Zealand,NZ,Auckland,,26300,26300
+Taupo,-38.6900,176.0800,New Zealand,NZ,Waikato,,23900,23900
+Masterton,-40.9667,175.6500,New Zealand,NZ,Wellington,,20100,20100
+Cambridge,-37.8833,175.4667,New Zealand,NZ,Waikato,,19150,19150
+Levin,-40.6250,175.2833,New Zealand,NZ,Manawatu-Wanganui,,17700,17700
+Ashton,-44.0330,171.7720,New Zealand,NZ,Canterbury,,17700,17700
+Macetown,-44.8650,168.8190,New Zealand,NZ,Otago,,16600,16600
+Feilding,-40.2250,175.5650,New Zealand,NZ,Manawatu-Wanganui,,16450,16450
+Rolleston,-43.5960,172.3830,New Zealand,NZ,Canterbury,,16350,16350
+Whakatane,-37.9640,176.9840,New Zealand,NZ,Bay of Plenty,admin,15850,15850
+Richmond,-41.3333,173.1833,New Zealand,NZ,Tasman,admin,15000,15000
+Havelock North,-39.6667,176.8833,New Zealand,NZ,Hawke’s Bay,,13950,13950
+Tokoroa,-38.2200,175.8720,New Zealand,NZ,Waikato,,13650,13650
+Mosgiel,-45.8750,170.3480,New Zealand,NZ,Otago,,13400,13400
+Te Awamutu,-38.0083,175.3250,New Zealand,NZ,Waikato,,12400,12400
+Waikanae,-40.8760,175.0640,New Zealand,NZ,Wellington,,12100,12100
+Hawera,-39.5833,174.2833,New Zealand,NZ,Taranaki,,9810,9810
+Glencoe,-46.1920,168.6460,New Zealand,NZ,Southland,,9750,9750
+Waiuku,-37.2500,174.7333,New Zealand,NZ,Auckland,,9660,9660
+Wanaka,-44.7081,169.1239,New Zealand,NZ,Otago,,8900,8900
+Te Puke,-37.7833,176.3167,New Zealand,NZ,Bay of Plenty,,8230,8230
+Greymouth,-42.4667,171.2000,New Zealand,NZ,West Coast,admin,8160,8160
+Matamata,-37.8097,175.7733,New Zealand,NZ,Waikato,,7910,7910
+Thames,-37.1383,175.5375,New Zealand,NZ,Waikato,,7680,7680
+Kawerau,-38.0847,176.6996,New Zealand,NZ,Bay of Plenty,,7080,7080
+Waitara,-38.9958,174.2331,New Zealand,NZ,Taranaki,,7040,7040
+Kerikeri,-35.2244,173.9514,New Zealand,NZ,Northland,,6960,6960
+Ngaruawahia,-37.6680,175.1470,New Zealand,NZ,Waikato,,6580,6580
+Lincoln,-43.6400,172.4860,New Zealand,NZ,Canterbury,,6030,6030
+Kaitaia,-35.1125,173.2628,New Zealand,NZ,Northland,,5870,5870
+Stratford,-39.3410,174.2840,New Zealand,NZ,Taranaki,admin,5740,5740
+Alexandra,-45.2492,169.3797,New Zealand,NZ,Otago,,5510,5510
+Cromwell,-45.0400,169.2000,New Zealand,NZ,Otago,,5440,5440
+Warkworth,-36.4000,174.6667,New Zealand,NZ,Auckland,,5320,5320
+Waihi,-37.3930,175.8320,New Zealand,NZ,Waikato,,5310,5310
+Marton,-40.0692,175.3783,New Zealand,NZ,Manawatu-Wanganui,,5200,5200
+Dargaville,-35.9333,173.8833,New Zealand,NZ,Northland,,5170,5170
+Whitianga,-36.8331,175.6997,New Zealand,NZ,Waikato,,5130,5130
+Tuakau,-37.2667,174.9500,New Zealand,NZ,Waikato,,5090,5090
+Katikati,-37.5500,175.9167,New Zealand,NZ,Bay of Plenty,,4750,4750
+Westport,-41.7500,171.6000,New Zealand,NZ,West Coast,,4660,4660
+Opotiki,-38.0070,177.2870,New Zealand,NZ,Bay of Plenty,,4530,4530
+Kaikohe,-35.4075,173.7997,New Zealand,NZ,Northland,,4490,4490
+Otaki,-40.7583,175.1500,New Zealand,NZ,Wellington,,4490,4490
+Te Aroha,-37.5388,175.7091,New Zealand,NZ,Waikato,,4470,4470
+Prebbleton,-43.5783,172.5133,New Zealand,NZ,Canterbury,,4350,4350
+Wairoa,-39.0420,177.4230,New Zealand,NZ,Hawke’s Bay,,4330,4330
+Paeroa,-37.3667,175.6670,New Zealand,NZ,Waikato,,4310,4310
+Whangamata,-37.2100,175.8740,New Zealand,NZ,Waikato,,4060,4060
+Balclutha,-46.2417,169.7333,New Zealand,NZ,Otago,,4060,4060
+Snells Beach,-36.4222,174.7275,New Zealand,NZ,Auckland,,3540,3540
+Turangi,-38.9890,175.8100,New Zealand,NZ,Waikato,,3320,3320
+Raglan,-37.8000,174.8710,New Zealand,NZ,Waikato,,3280,3280
+Ohope Beach,-37.9720,177.0570,New Zealand,NZ,Bay of Plenty,,3180,3180
+Helensville,-36.6797,174.4494,New Zealand,NZ,Auckland,,3150,3150
+Foxton,-40.4717,175.2858,New Zealand,NZ,Manawatu-Wanganui,,3130,3130
+Woodend,-43.3167,172.6670,New Zealand,NZ,Canterbury,,3100,3100
+Hokitika,-42.7167,170.9667,New Zealand,NZ,West Coast,,3090,3090
+Ashhurst,-40.3000,175.7500,New Zealand,NZ,Manawatu-Wanganui,,2990,2990
+Arrowtown,-44.9425,168.8358,New Zealand,NZ,Otago,,2950,2950
+Renwick,-41.5099,173.8282,New Zealand,NZ,Marlborough,,2928,2928
+Darfield,-43.4880,172.1090,New Zealand,NZ,Canterbury,,2900,2900
+Otorohanga,-38.1833,175.2000,New Zealand,NZ,Waikato,,2890,2890
+Omokoroa,-37.6650,176.0350,New Zealand,NZ,Bay of Plenty,,2820,2820
+Kihikihi,-38.0333,175.3500,New Zealand,NZ,Waikato,,2740,2740
+Wakefield,-41.4044,173.0483,New Zealand,NZ,Tasman,,2570,2570
+Pahiatua,-40.4533,175.8408,New Zealand,NZ,Manawatu-Wanganui,,2550,2550
+Winton,-46.1430,168.3240,New Zealand,NZ,Southland,,2380,2380
+Ruakaka,-35.9084,174.4596,New Zealand,NZ,Northland,,2360,2360
+Maraetai,-36.8830,175.0430,New Zealand,NZ,Auckland,,2290,2290
+Te Anau,-45.4167,167.7167,New Zealand,NZ,Southland,,2250,2250
+Clive,-39.5833,176.9167,New Zealand,NZ,Hawke’s Bay,,2210,2210
+Kaikoura,-42.4000,173.6814,New Zealand,NZ,Canterbury,,2210,2210
+Oxford,-43.2980,172.1880,New Zealand,NZ,Canterbury,,2200,2200
+Pokeno,-37.2430,175.0180,New Zealand,NZ,Waikato,,2170,2170
+Wellsford,-36.2958,174.5233,New Zealand,NZ,Auckland,,2120,2120
+Waitangi,-43.9510,-176.5610,New Zealand,NZ,Chatham Islands,admin,300,300
