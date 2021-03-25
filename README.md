@@ -2,7 +2,7 @@
 
 This is a collection of example Python code, presented as [Jupyter notebooks](https://jupyter.org/), along with a few mini datasets.
 
-- [basic skeleton](basic skeleton.ipynb) has a few pointers about using Jupyter notebooks
+- [basic skeleton](basic%20skeleton.ipynb) has a few pointers about using Jupyter notebooks
 - [Maps.ipynb](Maps.ipynb) has an example of visualising maps and geographic information in Python.
 - Data sets for Te Reo Māori usage are are in the Maori language visualisation folder
 - [Environment API project.ipynb](Environment digitalnz project/Environment API project.ipynb) is a notebook setting out the steps to get data from [DigitalNZ](https://digitalnz.org/) to start you modelling how New Zealand media portray environmental issues.
