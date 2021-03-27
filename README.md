@@ -8,7 +8,6 @@ This is a collection of example Python code, presented as [Jupyter notebooks](ht
 - [Environment API project.ipynb](Environment%20digitalnz%20project/Environment%20API%20project.ipynb) is a notebook setting out the steps to get data from [DigitalNZ](https://digitalnz.org/) to start you modelling how New Zealand media portray environmental issues.
 - The [SMAT project.ipynb](SMAT%20api%20project/SMAT%20project.ipynb) is about using the Social Media Analysis Tool (SMAT) API to analyse conspiracy theories on social media
 
-
 These are just a few ideas. Others are:
 
 - Create a website on health and technology based on Te Whare Tapa Whā principles
@@ -16,3 +15,6 @@ These are just a few ideas. Others are:
 - Working with people from Papa Reo on machine learning applied to Māori and Pacific Languages
 - Working to improve the hacka-noho concept and delivery
 
+## How understanding git feels
+
+![image](https://user-images.githubusercontent.com/11322313/112708046-7a5d8800-8f14-11eb-8936-2c546eef758e.png)
