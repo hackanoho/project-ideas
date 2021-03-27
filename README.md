@@ -17,4 +17,4 @@ These are just a few ideas. Others are:
 
 ## How understanding git feels
 
-![image](https://user-images.githubusercontent.com/11322313/112708084-b7297f00-8f14-11eb-84cc-fcb17810e5db.png)
+![image](https://media1.tenor.com/images/46734e53d1e2d9121ffbd873a6947973/tenor.gif)
